@@ -1,4 +1,4 @@
-# Joaquín Sosa
+# Joaquin Sosa
 
 Full Stack Engineer based in Córdoba, Argentina 🇦🇷 · Systems Engineer (UTN, 2025) · Open to remote roles.
 

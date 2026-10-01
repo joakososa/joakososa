@@ -2,7 +2,7 @@
 
 Full Stack Engineer based in Córdoba, Argentina 🇦🇷 · Systems Engineer (UTN, 2025) · Open to remote roles.
 
-5+ years building web applications end to end: Angular front ends, .NET back ends and AWS serverless services. I care about clear architecture, documented decisions and tests that make change safe.
+5+ years building web applications end to end: Angular front ends, .NET back ends and AWS serverless services. I care about clear, well-documented architecture and design decisions and tests that make change safe.
 
 ### Tech
 - **Back end:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ, REST APIs
